@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "My next.js App - Lord Cedric Ramos",
-  description: "A custom boilerplate powered by Next.js 15 and Shadcn UI",
+  title: "Marithea M. Magno - CV Portfolio",
+  description: "IT Student | Web Development Specialist - Built with Next.js 15 and modern web technologies",
 };
 
 export default function RootLayout({
