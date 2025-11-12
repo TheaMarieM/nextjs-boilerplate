@@ -36,3 +36,5 @@
     highlights: ['Paperless system', 'Digital assessments', 'Student accounts', 'Export features']
   }
 ];
+
+export default projects;
